@@ -13,3 +13,7 @@ gcc parself.c -o parself
 ```bash
 ./parself <elf binary filename>
 ```
+
+## Tool Preview
+
+![Preview](./Images/demo_image.png)
