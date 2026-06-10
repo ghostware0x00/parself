@@ -5,11 +5,11 @@
 ## Usage
 
 ### Compilation
-
 ```bash
 gcc parself.c -o parself
 ```
 
+### Execution
 ```bash
 ./parself <elf binary filename>
 ```
